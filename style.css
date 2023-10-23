@@ -245,8 +245,8 @@ a:active {
   list-style: none;
 }
 
-.fas,
-.far {
+.fa-solid,
+.fa-regular {
   font-size: 1vw;
   color: #ffc848;
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
@@ -489,8 +489,8 @@ a:active {
     line-height: 100%;
   }
 
-  .fas,
-  .far, {
+  .fa-solid,
+  .fa-regular {
     font-size: 3vw;
   }
 
